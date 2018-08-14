@@ -1,2 +1,3 @@
-# barahkhadi_researchbase
-AudioSignal ResearchBase for DevanagariScript's Alphabet also known as Barahkhadi ( बारहखड़ी )
+# Barahkhadi Researchbase
+This is a collection of AudioSignalAnalysis of DevanagariScript's fundamental unit "Barahkhadi" ( बारहखड़ी ).
+
